@@ -19,6 +19,15 @@
 
 ---
 
+## github stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UllasBurugina&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=39ff14&text_color=00ff41&icon_color=39ff14&border_radius=10" height="140" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UllasBurugina&hide_border=true&background=0d1117&border=1a2e1a&stroke=39ff14&ring=39ff14&fire=00ff41&currStreakNum=00ff41&currStreakLabel=39ff14&sideNums=00ff41&sideLabels=39ff14&dates=555555&border_radius=10" height="140" />
+</div>
+
+---
+
 ## stack
 
 <p align="center">
@@ -41,15 +50,6 @@
   <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=39ff14" />
   <img src="https://img.shields.io/badge/Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=39ff14" />
 </p>
-
----
-
-## github stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UllasBurugina&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=39ff14&text_color=00ff41&icon_color=39ff14&border_radius=10" height="140" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UllasBurugina&hide_border=true&background=0d1117&border=1a2e1a&stroke=39ff14&ring=39ff14&fire=00ff41&currStreakNum=00ff41&currStreakLabel=39ff14&sideNums=00ff41&sideLabels=39ff14&dates=555555&border_radius=10" height="140" />
-</div>
 
 ---
 
