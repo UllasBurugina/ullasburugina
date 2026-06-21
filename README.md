@@ -13,9 +13,9 @@
 
 ## what i've built
 
-- 🔐 **KYC flows** — end to end identity verification on mobile, server-driven UI, multiple vendor integrations, step handling and edge cases
-- 🤝 **Partner systems** — backend infrastructure for onboarding and managing third-party partners, auth, token rotation, whitelists, webhooks
-- 📱 **Mobile features** — MPIN auth, ratings, homescreens, investment flows, and a bunch of other stuff across a fintech product used by real people
+- **KYC flows** — end to end identity verification on mobile, server-driven UI, multiple vendor integrations, step handling and edge cases
+- **Partner systems** — backend infrastructure for onboarding and managing third-party partners, auth, token rotation, whitelists, webhooks
+- **Mobile features** — MPIN auth, ratings, homescreens, investment flows, and a bunch of other stuff across a fintech product used by real people
 
 ---
 
