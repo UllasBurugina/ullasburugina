@@ -1,7 +1,7 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2818,100:0d1117&height=280&section=header&text=hey,%20i%27m%20ullas&fontSize=65&fontColor=39ff14&animation=fadeIn&fontAlignY=38&desc=full-stack%20engineer%20%C2%B7%20fintech%20%C2%B7%20bangalore&descSize=18&descAlignY=55&descColor=00ff41)](https://github.com/UllasBurugina)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Go+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+Supabase;KYC+flows+%C2%B7+Partner+APIs+%C2%B7+Kafka;building+things+that+move+real+money;ships+at+2am+%C2%B7+bangalore" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Go+%C2%B7+SpringBoot+%C2%B7+Flutter+%C2%B7+MERN;KYC+flows+%C2%B7+Partner+system+%C2%B7+Server+Driven+UI;building+things+that+move+real+money;bangalore+%C2%B7+kannadiga" alt="Typing SVG" />
 </p>
 
 <p align="center">
