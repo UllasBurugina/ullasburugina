@@ -13,9 +13,9 @@
 
 ## what i've built
 
-- **KYC flows** — end to end identity verification on mobile, server-driven UI, multiple vendor integrations, step handling and edge cases
-- **Partner systems** — backend infrastructure for onboarding and managing third-party partners, auth, token rotation, whitelists, webhooks
-- **Mobile features** — MPIN auth, ratings, homescreens, investment flows, and a bunch of other stuff across a fintech product used by real people
+- **KYC flows** - end to end identity verification on mobile, server-driven UI, multiple vendor integrations, step handling and edge cases
+- **Partner systems** - backend infrastructure for onboarding and managing third-party partners, auth, token rotation, whitelists, webhooks
+- **Mobile features** - MPIN auth, ratings, homescreens, investment flows, and a bunch of other stuff across a fintech product used by real people
 
 ---
 
@@ -55,7 +55,7 @@
 ## a few things
 
 - dog lover
-- been gaming since kindergarten — spent way too much time in CS:GO and Valorant
+- been gaming since kindergarten - spent way too much time in CS:GO and Valorant
 - currently trying to read more, scroll less, and go to the gym everyday
 
 ---
